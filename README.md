@@ -1,14 +1,9 @@
-# Задача
+#TASK
+Java Applet "Motion of an elastic ball in a box with vertical walls."
+Flat case: movement inside a rectangle. When approaching the wall, the ball begins to experience a “force of attraction”, inversely proportional to the distance from its center to the wall.
 
-Джава-Апплет "Движение упругого шарика в коробке с вертикальными стенками".  
-Плоский случай: движение внутри прямоугольника. При приближении к стенке
-на шарик начинает действовать "сила притяжения", обратно пропорциональная
-расстоянию от его центра до стенки.
+Variable parameters: initial position of the ball (coordinates, speed of initial movement along each of the axes), “gravity” (the same for all walls).
 
-Варьируемые параметры: начальное положение шарика (координаты, скорость
-начального движения вдоль каждой из осей), "сила тяжести" (для всех стенок
-одинаково).
+You can enter pseudo-3D image elements.
 
-Можно ввести элементы псевдо-трехмерного изображения.
-  
-Язык реализации: Джава.
+Implementation language: Java.
